@@ -1,0 +1,3 @@
+/Users/gerardobecerril/CLionProjects/reverseString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gerardobecerril/CLionProjects/reverseString/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerardobecerril/CLionProjects/reverseString/cmake-build-debug/CMakeFiles/reverseString.dir
